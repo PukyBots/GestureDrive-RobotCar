@@ -126,11 +126,12 @@ pip install -r requirements.txt
 ## Required Libraries (requirements.txt)
 
 ```
-opencv-python
-opencv-contrib-python
 mediapipe
-pyserial
+opencv-contrib-python
 numpy
+pyserial
+flask
+requests
 ```
 
 ---
